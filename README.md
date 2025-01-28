@@ -8,6 +8,8 @@ Outside of school my hobbies are playing video games, designing, and working (so
 [My Linkedin Profile✧.*](https://www.linkedin.com/in/alyssa-chavez-b9714229b/)
 
 [![Alyssa's GitHub stats](https://github-readme-stats.vercel.app/api?username=alyssa0715)](https://github.com/alyssa0715/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alyssa0715&layout=donut)](https://github.com/alyssa0715/github-readme-stats)
 <!--
 **alyssa0715/alyssa0715** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
