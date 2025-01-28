@@ -1,5 +1,5 @@
 ## Hello! ⋆ ˚｡⋆୨୧˚
-
+My name is Alyssa Chavez and I am a Human Systems Engineering student at Arizona State University ✧･ﾟ
 <!--
 **alyssa0715/alyssa0715** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
