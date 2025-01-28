@@ -6,6 +6,8 @@ After graduating I am looking forward to breaking into the UX Design field and c
 Outside of school my hobbies are playing video games, designing, and working (sometimes). 
 
 [My Linkedin Profile✧.*](https://www.linkedin.com/in/alyssa-chavez-b9714229b/)
+
+[![Alyssa's GitHub stats](https://github-readme-stats.vercel.app/api?username=alyssa0715)](https://github.com/alyssa0715/github-readme-stats)
 <!--
 **alyssa0715/alyssa0715** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
