@@ -7,7 +7,7 @@ Outside of school my hobbies are playing video games, designing, and working (*s
 
 [My Linkedin Profile✧.*](https://www.linkedin.com/in/alyssa-chavez-b9714229b/)
 
-[![Alyssa's GitHub stats](https://github-readme-stats.vercel.app/api?username=alyssa0715)](https://github.com/alyssa0715/github-readme-stats)
+![Alyssa's GitHub stats](https://github-readme-stats.vercel.app/api?username=alyssa0715&show_icons=true&theme=transparent)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alyssa0715&layout=donut)](https://github.com/alyssa0715/github-readme-stats)
 <!--
