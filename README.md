@@ -3,7 +3,7 @@ My name is **Alyssa Chavez** and I am a Human Systems Engineering student with a
 
 After graduating I am looking forward to breaking into the UX Design field and contributing what I can there. I enjoy learning about coding, specifically in **Java and HTML**, but I would love to learn more!
 
-Outside of school my hobbies are playing video games, designing, and working (sometimes). 
+Outside of school my hobbies are playing video games, designing, and working (*sometimes*). 
 
 [My Linkedin Profile✧.*](https://www.linkedin.com/in/alyssa-chavez-b9714229b/)
 
